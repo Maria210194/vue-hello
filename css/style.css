@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+/* utilities */
+
+
+
+/* content */
+
+.h1Style{
+    font-size: 50px;
+    text-align: center;
+    padding: 10px;
+}
